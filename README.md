@@ -11,6 +11,7 @@ Het project is te vinden op de openbare link jonasvdc.info
 HTTP Requests worden geredirect met code 301 naar HTTPS.
 Het domein heeft een A score op de SSL Labs Server Test.
 Ieder respons bevat een STSH.
+Het domein is in afwachting van toevoeging aan de hsts preload list.
 Er zijn CAA DNS records aanwezig.
 
 ## OpenID Connect en OAuth2
